@@ -1,0 +1,12 @@
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\bin\Debug\meus-livros.exe.config
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\bin\Debug\meus-livros.exe
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\bin\Debug\meus-livros.pdb
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\obj\Debug\meus-livros.csproj.AssemblyReference.cache
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\obj\Debug\meus_livros.Properties.Resources.resources
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\obj\Debug\meus-livros.csproj.GenerateResource.cache
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\obj\Debug\meus-livros.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\obj\Debug\meus-livros.exe
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\obj\Debug\meus-livros.pdb
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\obj\Debug\meus_livros.FrmDetalhes.resources
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\obj\Debug\meus_livros.FrmPrincipal.resources
+C:\Users\ISABELA NITTA\OneDrive\Documentos\estudos!\c#\meus-livros\obj\Debug\meus-livros.exe.config
